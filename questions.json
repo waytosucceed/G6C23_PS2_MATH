@@ -1,0 +1,120 @@
+{
+  "heading": "Probability",
+  "topics": [
+    {
+      "heading": "Probability",
+      "questions":  [
+  {
+    "questionNo": 1,
+    "question": "A bag contains 5 red and 5 green marbles. What is the probability of picking a red marble?",
+    "options": [
+      { "text": "50%" },
+      { "text": "25%" },
+      { "text": "100%" },
+      { "text": "20%" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 2,
+    "question": "What is the probability of drawing a red card from a standard 52-card deck?",
+    "options": [
+      { "text": "25%" },
+      { "text": "50%" },
+      { "text": "100%" },
+      { "text": "20%" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 3,
+    "question": "What does a probability of 0 mean?",
+    "options": [
+      { "text": "The event will always happen" },
+      { "text": "The event is unlikely" },
+      { "text": "The event is impossible" },
+      { "text": "The event might happen" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 4,
+    "question": "What is the probability of not drawing a heart from a standard deck?",
+    "options": [
+      { "text": "25%" },
+      { "text": "75%" },
+      { "text": "100%" },
+      { "text": "20%" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 5,
+    "question": "A spinner is divided into 8 equal sections. If 2 sections are yellow, what is the probability of landing on yellow?",
+    "options": [
+      { "text": "0.25" },
+      { "text": "25%" },
+      { "text": "2/8" },
+      { "text": "All of the above" }
+    ],
+    "answer": 3
+  },
+  {
+    "questionNo": 6,
+    "question": "What is the probability of selecting a Queen from a standard deck of cards?",
+    "options": [
+      { "text": "4%" },
+      { "text": "5%" },
+      { "text": "About 7.7%" },
+      { "text": "9%" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 7,
+    "question": "A coin is tossed. What is the probability of getting a head or a tail?",
+    "options": [
+      { "text": "0" },
+      { "text": "0.5" },
+      { "text": "1" },
+      { "text": "2" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 8,
+    "question": "A die is rolled. What's the probability of getting an even number less than 4?",
+    "options": [
+      { "text": "1/6" },
+      { "text": "4/6" },
+      { "text": "2/6" },
+      { "text": "6/6" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 9,
+    "question": "A spinner has 5 equal sections: Red, Blue, Green, Yellow, Purple. What’s the probability it does not land on Green?",
+    "options": [
+      { "text": "25%" },
+      { "text": "75%" },
+      { "text": "20%" },
+      { "text": "80%" }
+    ],
+    "answer": 3
+  },
+  {
+    "questionNo": 10,
+    "question": "A number from 1 to 10 is chosen at random. What is the probability of getting a number that is even and greater than 5?",
+    "options": [
+      { "text": "25%" },
+      { "text": "75%" },
+      { "text": "30%" },
+      { "text": "80%" }
+    ],
+    "answer": 2
+  }
+]
+    }
+  ]
+}
